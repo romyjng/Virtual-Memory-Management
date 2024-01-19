@@ -1,6 +1,5 @@
 
 # OS Project 3 - Demand paging system을 위한 page replacement 기법 구현 및 검증
-# 2018310018 정찬휘
 
 f= open('C:\\Users\sprig\Desktop\input.txt', 'r')       # 바탕화면에 저장된 'input.txt'파일 읽기
 
